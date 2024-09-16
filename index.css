@@ -1,12 +1,12 @@
 body {
     font-family: 'Raleway', serif;
-  text-align: center;
+    text-align: center;
   background-color: #f0f0f0;
   margin: 0;
   padding: 0;
 }
 
-h1 {
+h1 { 
   color: #333;
 }
 
@@ -92,6 +92,7 @@ button:hover {
 
 h1, .modal-content h2, .modal-content p {
   color: #5d5f5e;
+  font-family: "Raleway";
 }
 
 .close {
